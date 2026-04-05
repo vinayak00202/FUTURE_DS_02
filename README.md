@@ -1,4 +1,4 @@
-# 📊 FUTURE_DS_02 – Data Analysis Project
+# 📊 FUTURE_DS_02 – Data Science & Analytics Internship Project
 
 ## 📌 Overview
 This project focuses on analyzing data to extract meaningful insights and present them using clear visualizations. It highlights practical data analysis skills including data cleaning, exploration, and reporting.
